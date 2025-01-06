@@ -14,8 +14,7 @@
 - 💡 **JavaScript**  
 
 ### **Backend**  
-- ⚙️ **PHP**     ![Kearoth's GitHub Banner](https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif?cid=ecf05e47e8voguuoiozv6vrd0lgk22v2mnplsu8lihqsrjqr&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
-
+- ⚙️ **PHP**
 - 🌟 **Laravel**  
 
 ---
