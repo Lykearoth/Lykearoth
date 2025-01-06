@@ -18,7 +18,7 @@
 - 🌟 **Laravel**  
 
 ---
-![Kearoth's GitHub Banner](https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif?cid=ecf05e47e8voguuoiozv6vrd0lgk22v2mnplsu8lihqsrjqr&ep=v1_gifs_search&rid=giphy.gif&ct=g)  | ![Kearoth's GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN5NmFwZXdiMncxZjc1aWdmbXpudnd2YXEzZGYxNzE1ZnR2emxqdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif)
+![Kearoth's GitHub Banner](https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif?cid=ecf05e47e8voguuoiozv6vrd0lgk22v2mnplsu8lihqsrjqr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <!-- 
 ## 🛠️ Projects & Contributions  
