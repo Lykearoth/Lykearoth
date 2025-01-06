@@ -39,6 +39,6 @@ Check out my work here: [**lykearoth.github.io**](https://lykearoth.github.io)
 
 ## 💡 Let's Connect!  
 💌 **Email**: [lykearoth@example.com](mailto:lykearoth@example.com)  
-💬 **LinkedIn**: [linkedin.com/in/lykearoth]([https://linkedin.com/in/lykearoth](https://www.linkedin.com/in/kearorh-ly/))  
+💬 **LinkedIn**: [linkedin.com/in/lykearoth](https://www.linkedin.com/in/kearorh-ly/)  
 
 ---
