@@ -1,4 +1,4 @@
-# 👋 Hi, I'm LY Kearoth!  
+# 🙏 Hi, I'm LY Kearoth!  
 
 🌟 **Full Stack Web Developer** | 🎨 **Frontend Enthusiast** | 🖥️ **Backend Problem Solver**  
 
