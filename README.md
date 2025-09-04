@@ -10,12 +10,12 @@
 
 ### **Frontend**  
 - 🌐 **HTML5**  
-- 🎨 **CSS3** & **Tailwind CSS**  
+- 🎨 **CSS3 | Tailwind CSS**  
 - 💡 **JavaScript**  
 
 ### **Backend**  
-- ⚙️ **PHP**
-- 🌟 **Laravel**  
+- ⚙️ **PHP | Laravel**
+- ⚙️ **Python | Flask | AI - Machine Learning**
 
 ---
 ![Kearoth's GitHub Banner](https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif?cid=ecf05e47e8voguuoiozv6vrd0lgk22v2mnplsu8lihqsrjqr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
@@ -30,7 +30,7 @@
 ---
 
 ## 🌱 What I'm Learning  
-🚀 Currently diving deeper into advanced Laravel features and expanding my frontend toolbox with modern frameworks.
+🚀 Currently deepening my knowledge in machine learning while building advanced, production-ready web applications.
 
 ---
 
